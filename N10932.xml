@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:013840_0000_0F920362B36F9270"/>
-            <pb facs="tcp:013840_0001_0F920364398D9CB0"/>
+            <pb facs="unknown:013840_0000_0F920362B36F9270"/>
+            <pb facs="unknown:013840_0001_0F920364398D9CB0"/>
             <p>AN ORATION DELIVERED MARCH FIFTEENTH, 1775 AT THE REQUEST of a Number of the INHABITANTS OF THE TOWN of BOSTON.</p>
             <p>By Dr. THOMAS BOLTON</p>
             <q>
@@ -141,7 +141,7 @@
             </p>
          </div>
          <div type="resolution">
-            <pb facs="tcp:013840_0002_0F92036136622A38"/>
+            <pb facs="unknown:013840_0002_0F92036136622A38"/>
             <head>AT a meeting of ſeveral inhabitants of the town of <hi>BOSTON,</hi> legal<g ref="char:EOLhyphen"/>ly aſſembled at the <hi>Britiſh Coffee-Houſe,</hi> on
 <date>Wedneſday the <hi>15th</hi> day of <hi>March, Annoque Domini, 1775.</hi>
                </date>
@@ -173,7 +173,7 @@
       </front>
       <body>
          <div type="oration">
-            <pb facs="tcp:013840_0003_0F92038A6BC19D48"/>
+            <pb facs="unknown:013840_0003_0F92038A6BC19D48"/>
             <head>AN ORATION.</head>
             <epigraph>
                <q>
@@ -206,15 +206,15 @@
                </gap> to a <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> of the good things of this world; which good things
-<pb facs="tcp:013840_0004_0F92038B2BD08D80"/>
+<pb facs="unknown:013840_0004_0F92038B2BD08D80"/>
                <gap reason="duplicate" extent="1 page">
                   <desc>〈1 page duplicate〉</desc>
                </gap>
-               <pb facs="tcp:013840_0005_0F9203607469A9E0"/>
+               <pb facs="unknown:013840_0005_0F9203607469A9E0"/>
                <gap reason="duplicate" extent="1 page">
                   <desc>〈1 page duplicate〉</desc>
                </gap>
-               <pb facs="tcp:013840_0006_0F92035FB7590970"/>
+               <pb facs="unknown:013840_0006_0F92035FB7590970"/>
 Fortune had moſt unjuſtly beſtowed upon others in too large a pro<g ref="char:EOLhyphen"/>portion.</p>
             <p>It was a matter of diſpute for ſome time whether they were of the <hi>Mohawk</hi> kind or not; and this ſuſpicion, I imagine, firſt aroſe from the obſervation of a learned phyſionomiſt, who perceiving their <hi>Os frontis</hi> to be uncommonly flat, burſt out into the following exclamation:</p>
             <l>"Your ſapſculls are neither ſquare, oval, nor round,</l>
@@ -233,7 +233,7 @@ Fortune had moſt unjuſtly beſtowed upon others in too large a pro<g ref="char
                </gap> in the multitude; and it can be atteſted, that <gap reason="illegible: indecipherable" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> mouth of A—MS is ſufficient to fill the
-<pb facs="tcp:013840_0007_0F92035EF7D53680"/>
+<pb facs="unknown:013840_0007_0F92035EF7D53680"/>
 mouths of millions in America. But it is propheſied that the time is near at hand, when the <hi>frothy food</hi> will fail them.</p>
             <p>But generous JOHN ſcorns to let him ſtarve,—far from it; 'tis well known his purſe-ſtrings have been at SAM's diſpoſal ever ſince he aſſiſted in making the Oration delivered by JOHN on the 5th March 1774, to a crowded audience of Narraganſet <hi>Indians.</hi>
             </p>
@@ -247,7 +247,7 @@ mouths of millions in America. But it is propheſied that the time is near at ha
                </gap>
             </p>
             <l>
-               <pb n="6" facs="tcp:013840_0008_0F92035E384D1DD0"/>
+               <pb n="6" facs="unknown:013840_0008_0F92035E384D1DD0"/>
 "Pride ſtill is aiming at the bleſt abodes,</l>
             <l>"Men would be angels, angels would be gods;</l>
             <l>"Aſpiring to be gods, if angels fell,</l>
@@ -256,7 +256,7 @@ mouths of millions in America. But it is propheſied that the time is near at ha
             <p>The Sixth of theſe worthies is named W—RR—N; a man, who by his great ſkill in chemiſtry, could <hi>turn water</hi> into <hi>milk,</hi> and ſell it for <hi>ſix coppers</hi> the quart. He was bound apprentice to an apo<g ref="char:EOLhyphen"/>thecary, and turn'd out a Quack, but thinking this profeſſion too grovelling for ſo ſublime a genius, he has lately changed it for that of <hi>Orator,</hi> and is already ſo great a proficient in the <hi>ſough,</hi> or true <hi>puritanic whine,</hi> and his notes are ſo remarkably flat and productive of horror, that when he diſmiſſes his hearers, you would ſwear they were juſt come out of the cave of Triphonius.—There's an Orator for you!</p>
             <p>Oh! that ſome Son of Liberty would go to <hi>hell,</hi> and fetch a ſpark from the altar of <hi>enthuſiaſm,</hi> to kindle in me the reforming and of W—n!—then might I ſpeak his language.</p>
             <p>
-               <pb n="7" facs="tcp:013840_0009_0F92035D78B3AFA0"/>The Seventh of theſe pillars of the ſtate is Q—CY, and tho' I have placed him only as the ſeventh <hi>ſachem,</hi> yet it has been aſ<g ref="char:EOLhyphen"/>ſerted that he is worthy of a higher rank; having lately compoſed a Treatiſe, in which he abſolved all his Majeſty's ſubjects from their allegiance; and was one of the firſt inventors of <hi>mobbing, tar<g ref="char:EOLhyphen"/>ring and feathering,</hi> and ſundry other modes tending to the over<g ref="char:EOLhyphen"/>throw of all ſocieties, civil and moral.</p>
+               <pb n="7" facs="unknown:013840_0009_0F92035D78B3AFA0"/>The Seventh of theſe pillars of the ſtate is Q—CY, and tho' I have placed him only as the ſeventh <hi>ſachem,</hi> yet it has been aſ<g ref="char:EOLhyphen"/>ſerted that he is worthy of a higher rank; having lately compoſed a Treatiſe, in which he abſolved all his Majeſty's ſubjects from their allegiance; and was one of the firſt inventors of <hi>mobbing, tar<g ref="char:EOLhyphen"/>ring and feathering,</hi> and ſundry other modes tending to the over<g ref="char:EOLhyphen"/>throw of all ſocieties, civil and moral.</p>
             <p>The Eighth of theſe heroes is Y—G, whoſe character cannot be drawn by any pen with the conſiſtency that becomes a true limner. Could we raiſe up the ſpirit of one of the murderers of St Stephen, to tell us what a figure Paul cut, when he breathed out threatning and ſlaughter againſt his SAVIOUR, then might we form an idea of Dr Y—G: but ſince that is impoſſible, I can only refer you to—<hi>his own countenance,</hi> wherein you may read his true and genuine diſpoſition. Suffice it to ſay, this man ſtands ac<g ref="char:EOLhyphen"/>cuſed of rebellion, not only againſt his Sovereign, but againſt HIS GOD;—he makes a mock at the merits of his Redeemer, and uſes his God only <hi>to ſwear by.</hi>
             </p>
             <p>Oh! my friends and fellow ſubjects! what infatuation muſt poſ<g ref="char:EOLhyphen"/>ſeſs the deluded fools who depend on ſuch a <hi>race of raſcals for their leaders!</hi>
@@ -266,7 +266,8 @@ mouths of millions in America. But it is propheſied that the time is near at ha
             <l>Who is ſo fit as Doctor C—?</l>
             <l>"When goſpel trumpeter ſurrounded</l>
             <l>
-               <pb facs="tcp:013840_0010_0F92035CBA83B898" rendition="simple:additions"/>"With long-ear'd rout to battle ſounded,</l>
+               <pb facs="unknown:013840_0010_0F92035CBA83B898"
+                   rendition="simple:additions"/>"With long-ear'd rout to battle ſounded,</l>
             <l>"And pulpit, drum eccleſiaſtic,</l>
             <l>"Was beat with fiſt inſtead of a ſtick;</l>
             <l>He, proſtituting his religion,</l>
@@ -312,7 +313,7 @@ mouths of millions in America. But it is propheſied that the time is near at ha
                      <desc>〈◊〉</desc>
                   </gap> on juſtice, and rail at the king;</l>
                <l>
-                  <pb facs="tcp:013840_0011_0F92038BEBCD8FE0"/>We can laugh at religion, nor ne'er care a fig</l>
+                  <pb facs="unknown:013840_0011_0F92038BEBCD8FE0"/>We can laugh at religion, nor ne'er care a fig</l>
                <l>For law or for goſpel, this is a true Whig.</l>
             </lg>
             <lg>
